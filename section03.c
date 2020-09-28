@@ -26,7 +26,7 @@ int main(){
 	//calc
 	average_stock = (minimum_quantity + max_quantity)/2;
 
-	//output
+	//output of calc
 	printf("The average stock is: %f", average_stock);
 
 
